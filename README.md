@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/parth9860/leetcode_problems/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/parth9860/leetcode_problems/tree/master/0067-add-binary) |
 ## Simulation
 |  |
