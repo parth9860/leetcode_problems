@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/parth9860/leetcode_problems/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/parth9860/leetcode_problems/tree/master/0067-add-binary) |
 ## String
 |  |
